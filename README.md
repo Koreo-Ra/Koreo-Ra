@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi! I'm a Junior Python Developer
 
-<!--
-**Koreo-Ra/Koreo-Ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in:
+- 🔹 Automating repetitive tasks  
+- 🔹 Collecting and parsing data from websites and APIs  
+- 🔹 Integrating with Google Sheets, Telegram, and web interfaces  
+- 🔹 Visualizing data and creating reports with charts
 
-Here are some ideas to get you started:
+💡 I enjoy building small but useful tools that save time and solve real problems.  
+I'm learning every day and always open to new challenges. I'm even ready to work for free at the start just to gain real experience and grow faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies I use:
+- `Python`, `Selenium`, `BeautifulSoup`, `matplotlib`
+- `Google Sheets API`, `Telegram Bot API`, `asyncio`, `telebot`
+- `Git`, `Regex`, `JSON`
+
+---
+
+📫 If you have a project idea or need help with automation, bots, analytics, or APIs — feel free to reach out!
