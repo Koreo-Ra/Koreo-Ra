@@ -12,9 +12,9 @@ I'm learning every day and always open to new challenges. I'm even ready to work
 ---
 
 ## 🛠 Technologies I use:
-- `Python`, `Selenium`, `BeautifulSoup`, `matplotlib`
+- `Python`, `Selenium`, `Requests`, `BeautifulSoup`, `matplotlib`
 - `Google Sheets API`, `Telegram Bot API`, `asyncio`, `telebot`
-- `Git`, `Regex`, `JSON`
+- `Git`, `Regex`, `JSON`, `CVS`
 
 ---
 
